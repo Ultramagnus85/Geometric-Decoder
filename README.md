@@ -7,7 +7,7 @@
 the geometric decoder uses standard operators to extract hidden physics equations from sacred geometry constellations and other geometric forms.
 
 ## Live Simulation  
-🌐[Viewthesimlationhere](https://Ultramagnus85.github.io/Geometric Decoder 
+🌐[Viewthesimlationhere](https://Ultramagnus85.github.io/GeometricDecoder 
 
 ## License  
 This project is licensed under the Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0).
