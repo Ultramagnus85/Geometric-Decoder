@@ -1,13 +1,13 @@
-# Harmonic Unification Principle (HUP) Simulation  
+# Geometric Decoder
 **Author:** Robert E. Quarles  
-**Date:** July 9, 2025  
+**Date:** July 14, 2025  
 **License:** CC BY-ND 4.0
 
 ## Description  
-the geometric decoder uses standard operators to extract hidden physics equations from sacred geometry constellations and other geometric forms.
+The geometric decoder uses a combination of standard operators to extract mathmatics equations from sacred geometry constellations and other geometric forms.
 
 ## Live Simulation  
-🌐[Viewthesimlationhere](https://Ultramagnus85.github.io/GeometricDecoder 
+🌐[Viewthesimlationhere](https://Ultramagnus85.github.io/GeometricDecoder)
 
 ## License  
 This project is licensed under the Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0).
