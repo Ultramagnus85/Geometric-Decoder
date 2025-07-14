@@ -3,10 +3,10 @@
 **Author:** Robert E. Quarles  
 **Date:** July 14, 2025  
 **License:** Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)  
-**Repository:** [https://github.com/Ultramagnus85/GeometricDecoder](https://github.com/Ultramagnus85/GeometricDecoder)
+**Repository:** [https://github.com/Ultramagnus85/GeometricDecoder/](https://github.com/Ultramagnus85/GeometricDecoder/)
 
 ---
-#🔷 Universal Geometric Decoder — 5-Step Methodology
+#🔷 Geometric Decoder — 5-Step Methodology
 
 Step 1: Symbolic Abstraction & Input Encoding
 Goal: Translate visual/symbolic data (e.g., constellations, crop circles, sprites) into analyzable geometric primitives.
